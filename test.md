@@ -1,4 +1,4 @@
-[사진] https://github.com/myeonghuSong/first-repository/blob/master/engine.png
+[https://github.com/myeonghuSong/first-repository/blob/master/engine.png] 
 
 ### 호출 스택(Call Stack)
 - 자바스크립트는 단일 스레드 프로그래밍 언어이므로, 단일 호출 스택이 있습니다. 단일 호출 스택이 있다는 뜻은 한 번에 하나의 일(Task)만 처리할 수 있다는 뜻입니다.
